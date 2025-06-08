@@ -11,6 +11,13 @@ Redesign the “Choose your skip size” page from [wewantwaste.co.uk](https://w
 ## 📡 API Used
 [https://app.wewantwaste.co.uk/api/skips/by-location?postcode=NR32&area=Lowestoft](https://app.wewantwaste.co.uk/api/skips/by-location?postcode=NR32&area=Lowestoft)
 
+## Online Demo
+
+You can access the live version of the project here:
+
+[https://select-skip-size.netlify.app/](https://select-skip-size.netlify.app/)
+
+
 ## 📁 Project Structure
 
 src/
@@ -39,4 +46,5 @@ src/
 
 ```bash
 npm install
+chmod +x ./node_modules/.bin/vite
 npm run dev
