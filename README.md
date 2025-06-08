@@ -46,5 +46,4 @@ src/
 
 ```bash
 npm install
-chmod +x ./node_modules/.bin/vite
 npm run dev
