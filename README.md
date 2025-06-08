@@ -15,7 +15,7 @@ Redesign the “Choose your skip size” page from [wewantwaste.co.uk](https://w
 
 You can access the live version of the project here:
 
-[https://select-skip-size.netlify.app/](https://select-skip-size.netlify.app/)
+[https://wt8jx4-5173.csb.app/](https://wt8jx4-5173.csb.app/)
 
 
 ## 📁 Project Structure
